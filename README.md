@@ -84,7 +84,7 @@ npm run preview
 ## 💡 Future Improvements
 
 - 🔔 Browser notifications for reminders
-- 💾 LocalStorage / database integration
+- 💾 Database integration
 - 📆 Due date & time scheduling
 - 🌙 Dark mode support
 - 🔍 Search & filter reminders
